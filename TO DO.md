@@ -1,0 +1,1 @@
+1) maybe work on some of the otehr coding train stuff with the data selfie app
