@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Basics of Git & GitHub Classroom",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
